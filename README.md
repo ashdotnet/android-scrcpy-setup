@@ -63,6 +63,4 @@ Go back to your Windows machine, in the same Command Prompt type in the followin
 
 DONE!
 
-.. image:: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
-   :target: https://www.buymeacoffee.com/ashdotnet
-   :alt: Buy Me A Coffee
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ashdotnet)
