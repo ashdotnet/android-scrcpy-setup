@@ -59,6 +59,8 @@ Go back to your Android phone, inside Wireless Debugging, take note of **IP Addr
 Go back to your Windows machine, in the same Command Prompt type in the following : 
 >     scrcpy --tcpip=ipaddress:port
 
+![alt text](https://github.com/ashdotnet/android-scrcpy-setup/blob/main/screenshots/4.png?raw=true)
+
 ## To enable AUDIO
 
 Download SNCPY at https://github.com/rom1v/sndcpy (ensure VLC is installed on your machine!)
@@ -72,7 +74,7 @@ Under Developer Options, scroll down and ensure Disable Permission Monitoring is
 Run SNCPY by typing in 'sndcpy'
 
 
-![alt text](https://github.com/ashdotnet/android-scrcpy-setup/blob/main/screenshots/4.png?raw=true)
+
 
 DONE!
 
